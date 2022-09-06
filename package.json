@@ -1,0 +1,16 @@
+{
+  "name": "gbysdk",
+  "version": "0.0.1",
+  "description": "The Lord of the Rings SDK referencing The one API to rule them all.",
+  "main": "gbysdk.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^12.4.1"
+  }
+}
