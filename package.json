@@ -1,6 +1,7 @@
 {
   "name": "gbysdk",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "repository": "giladbyo/gbysdk",
   "description": "The Lord of the Rings SDK referencing The one API to rule them all.",
   "main": "gbysdk.js",
   "type": "module",

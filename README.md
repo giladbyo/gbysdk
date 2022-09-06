@@ -25,7 +25,7 @@ Pass in a token and options, options allow for minimizing chunks of records per 
 
 ```js
 // Node.js REPL
-let { default: GBYSDK} = await import('./gbysdk.js')
+let { default: GBYSDK} = await import('gbysdk')
 
 // Normal init
 import GBYSDK from 'gbysdk'
